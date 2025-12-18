@@ -12,6 +12,7 @@ Hi, I'm Rudresh Mishra — a passionate full stack developer focused on building
 ![](https://nirzak-streak-stats.vercel.app/?user=rudreshmishra721-prog&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudreshmishra721-prog&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📄 Resume
+[Download My Resume](./Rudresh_Mishra_Resume.pdf)
+
 
